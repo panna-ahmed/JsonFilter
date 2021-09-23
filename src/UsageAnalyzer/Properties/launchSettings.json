@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "UsageAnalyzer": {
+      "commandName": "Project",
+      "commandLineArgs": "Active  2016-09-01 2016-09-08 "
+    }
+  }
+}
